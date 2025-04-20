@@ -22,9 +22,7 @@ window.onload = function () {
       <div class="info-item padd-15">
         <p>Degree: <span>${data.degree}</span></p>
       </div>
-      <div class="info-item padd-15">
-        <p>Phone: <span>${data.phone}</span></p>
-      </div>
+
       <div class="info-item padd-15">
         <p>Hometown: <span>${data.hometown}</span></p>
       </div>
@@ -47,13 +45,7 @@ window.onload = function () {
       // contactinfo on contact page
       const contactinfo = document.getElementById("contactinfo");
       contactinfo.innerHTML = `
-      <div class="contact-info-item padd-15">
-        <div class="icon">
-          <i class="fa fa-phone"></i>
-          <h4>Call Me On</h4>
-          <p>${data.phone}</p>
-        </div>
-      </div>
+
       <!-- Contact info item end -->
       <!-- Contact info item start -->
       <div class="contact-info-item padd-15">
