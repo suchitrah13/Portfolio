@@ -1,0 +1,69 @@
+{
+  "certifications": [
+    {
+      "title": "ISTQB ADVANCED LEVEL- TEST MANAGER",
+      "validity": "",
+      "image": "images/certificates/ISTQB Advanced Level-Test Manager ITB-CTAL-TM.JPG"
+    },
+    {
+      "title": "ISTQB FOUNDATION LEVEL",
+      "validity": "",
+      "image": "images/certificates/ISTQB Foundation Level Tester Certiffication-CTFL.JPG"
+    },
+    {
+      "title": "CERTIFIED SCRUM MASTER",
+      "validity": "Jan 2025 - Jan 2027",
+      "image": "images/certificates/Certified Scrum Master by Scrum Alliance- CSM.JPG"
+    },
+    {
+      "title": "AWS CERTIFIED CLOUD PRACTITIONER CLF-C02",
+      "validity": "Dec 2024 - Dec 2027",
+      "image": "images/certificates/AWS Certified Cloud Practitioner Certificate.JPG"
+    },
+    {
+      "title": "AINS 21- PROPERTY AND CASUALTY INSURANCE",
+      "validity": "",
+      "image": "images/certificates/AINS 21- Proprty and Casualty Insurance Certification.JPG"
+    },
+    {
+      "title": "INTRODUCTION TO SQL",
+      "validity": "",
+      "image": "images/certificates/Introduction to SQL.JPG"
+    },
+    {
+      "title": "Introduction to JIRA",
+      "validity": "",
+      "image": "images/certificates/Introduction to JIRA.jpg"
+    },
+    {
+      "title": "Introduction to DevOps Tools",
+      "validity": "",
+      "image": "images/certificates/Introduction to DevOps Tools.JPG"
+    },
+    {
+      "title": "CICD for Beginners",
+      "validity": "",
+      "image": "images/certificates/CICD for Beginners.JPG"
+    },
+    {
+      "title": "DIPLOMA IN SOFTWARE TESTING",
+      "validity": "",
+      "image": "images/certificates/dummy.png"
+    },
+    {
+      "title": "BANKING FOUNDATION CERTIFICATION",
+      "validity": "",
+      "image": "images/certificates/dummy.png"
+    },
+    {
+      "title": "ASDA APPLICATION TESTER CERTIFICATION",
+      "validity": "",
+      "image": "images/certificates/dummy.png"
+    },
+    {
+      "title": "HP ALM 10.0",
+      "validity": "",
+      "image": "images/certificates/dummy.png"
+    }
+  ]
+}
